@@ -1,0 +1,11 @@
+torch
+torchvision
+albumentations
+tqdm
+pytorch-lightning
+Pillow
+numpy
+pandas
+trimesh
+vedo
+opencv-python
